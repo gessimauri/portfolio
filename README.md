@@ -14,4 +14,4 @@ Meu primeiro portfolio desenvolvido com os cursos de HTML e CSS da Alura.
 
 ### Gessimauri Santanna Junior
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/gessimauri-santanna-júnior-38476a73
