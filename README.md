@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Bem vindo ao meu projeto de portfólio.
 Meu primeiro portfolio desenvolvido com os cursos de HTML e CSS da Alura.
 
